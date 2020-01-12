@@ -1,3 +1,3 @@
 # DataStructures
-Projects of Data Structures from third quarter
+Assignments and Projects of Data Structures from third quarter
 
